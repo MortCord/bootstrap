@@ -1,0 +1,30 @@
+@font-face{
+    font-family: monsteraat;
+    src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+
+    font-family: Californian;
+    src: url("../fonts/CALIFR.TTF");
+}
+
+.mons{
+    font-family: monsteraat;
+}
+
+.calif{
+    font-family: Californian;
+}
+
+body{
+    background-image: url("../img/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.b-class{
+    word-spacing: 0px;
+}
+
+header{
+    background-color: rgba(150, 150, 150, 0.5);
+}
